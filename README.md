@@ -80,6 +80,7 @@ nest new <nome>
 
 # START PROJETO
 npm run start
+npm run start:dev
 
 # CRIAR UM MÓDULO
 nest g module <nome>
@@ -90,4 +91,10 @@ nest g class <nome>
 # Controllers:
 Responsáveis por lidar com as requisições que chegam a aplicação.
 
-proxima: https://www.youtube.com/watch?v=7yvWHcCp7o0&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=3
+# Criar controllers:
+nest g controller <nome_do_controller> --no-spec [--no-spec cria sem o arquivo de teste]
+
+nest g controller <nome_do_controller> --dry-on [--dry-on mostra no terminal como ficaria a estrutura de pastas sem criar o controller efetivamente]
+
+
+proxima: https://www.youtube.com/watch?v=4O0oZ8Uxj5E&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=6
