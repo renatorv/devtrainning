@@ -96,5 +96,11 @@ nest g controller <nome_do_controller> --no-spec [--no-spec cria sem o arquivo d
 
 nest g controller <nome_do_controller> --dry-on [--dry-on mostra no terminal como ficaria a estrutura de pastas sem criar o controller efetivamente]
 
+# Trabalhando com Services
+Usados para isolar a lógica de negócios nos controllers. 
+Vantagem: reutilização de código em mais de uma parte da aplicação.
+nest g service <nome_do_servico>
+nest g service courses
 
-proxima: https://www.youtube.com/watch?v=4O0oZ8Uxj5E&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=6
+
+proxima: https://www.youtube.com/watch?v=-hFTu3mUv8g&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=9
