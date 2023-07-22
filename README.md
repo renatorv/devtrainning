@@ -103,4 +103,4 @@ nest g service <nome_do_servico>
 nest g service courses
 
 
-proxima: https://www.youtube.com/watch?v=-hFTu3mUv8g&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=9
+proxima: https://www.youtube.com/watch?v=eZhZR2zRxgA&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=10
