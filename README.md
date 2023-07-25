@@ -102,5 +102,9 @@ Vantagem: reutilização de código em mais de uma parte da aplicação.
 nest g service <nome_do_servico>
 nest g service courses
 
+# Data Transfer Object - DTO
+nest g class <caminho>
+nest g class courses/dto/create-course.dto --no-spec
 
-proxima: https://www.youtube.com/watch?v=eZhZR2zRxgA&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=10
+
+proxima: https://www.youtube.com/watch?v=RHYUAr3nd6k&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=13
