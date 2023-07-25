@@ -106,5 +106,16 @@ nest g service courses
 nest g class <caminho>
 nest g class courses/dto/create-course.dto --no-spec
 
+# ValidationPipe
+Bibliotecas necessáris na validação de dados
+npm i class-validator class-transformer
+
+npm i @nestjs/mapped-types
+
 
 proxima: https://www.youtube.com/watch?v=RHYUAr3nd6k&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&index=13
+
+
+# Outros cursos de NestJs:
+https://www.youtube.com/watch?v=cBIUOL6MFXw
+https://www.youtube.com/watch?v=b6Ipzs6tUus&list=PLedVhPP7RyiIOJ7R4lqXtWa4x-GX-x7rO
